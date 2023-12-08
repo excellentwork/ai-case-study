@@ -57,18 +57,18 @@ Is there any information about the market size of this set of customers?
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
 * Some of the other major companies in this field are:
-	MidJoiurney
-	Wonder Studio
-	OpenAi’s Dall-E
-	Stable Video Diffusion
-	Genmo Ai
-	Pika Labs
-	Synthesia
-	Vidnoz AI
-	Dumme Studio
-	Adobe Firefly
-	Dubverse
-	Wisest
+	1. MidJoiurney
+	2. Wonder Studio
+	3. OpenAi’s Dall-E
+	4. Stable Video Diffusion
+	5. Genmo Ai
+	6. Pika Labs
+ 	7. Synthesia
+	8. Vidnoz AI
+	9. Dumme Studio
+	10. Adobe Firefly
+	11. Dubverse
+	12. Wisest
 	
 
 ## Results
