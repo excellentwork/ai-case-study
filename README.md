@@ -23,7 +23,8 @@ In addition to the Kaiber product, the company also provides a studio technology
 
 * What specific problem is the company or project trying to solve?
 	Made for artists, by artists, Kaiber is an AI creative lab with a mission to unlock creativity through powerful and intuitive generative audio and video. From creators to musicians, artists at all stages of their career can leverage Kaiber to tell stories in a whole new way through the platform’s free trial, subscriber, and studio offerings. Built to enable creativity, not replace it, Kaiber explores the intersection of artistry and technology, with endless possibilities ahead.
-	Kaiber is described as ’Video generation engine that enables users to create videos from their own images or text description. It offers features such as Spotify Canvas for musicians, inspiration for artists, content for creators, and fun for futurists, allowing them to express themselves’ Alternativeto.net
+	Kaiber is described as ’Video generation engine that enables users to create videos from their own images or text description. It offers features such as Spotify Canvas for musicians, inspiration for artists, content for creators, and fun for futurists, allowing them to express themselves’
+[Alternativeto.net](https://alternativeto.net/software/kaiber/)
 
 * Who is the company's intended customer? 
 	I would say that the intended user is anyone looking to create video, music videos, stylize existing video and create styleframes using Ai.
@@ -42,7 +43,8 @@ Is there any information about the market size of this set of customers?
 
 
 * Which technologies are they currently using, and how are they implementing them? 
-	Kaiber leverages various open source projects like AnimatedDiff, Automatic1111, ControlNet and Deforum, among others. It also touts a proprietary layer of technology to fuse it all together into one artistic tool. techcrunch.com
+	Kaiber leverages various open source projects like AnimatedDiff, Automatic1111, ControlNet and Deforum, among others. It also touts a proprietary layer of technology to fuse it all together into one artistic tool.
+[techcrunch.com](https://techcrunch.com/2023/11/02/kaibers-new-app-helps-artists-make-music-videos-using-generative-ai-tools/#:~:text=Image%20Credits%3A%20Kaiber&text=Founded%20in%202022%2C%20Kaiber%20leverages,together%20into%20one%20artistic%20tool.)
 
 ## Landscape
 
