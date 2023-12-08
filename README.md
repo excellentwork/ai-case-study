@@ -18,7 +18,8 @@ In addition to the Kaiber product, the company also provides a studio technology
 	$15 "Pro" plan 1,000 credits per month.
 	$30 "Artist" option for 33,333 credits per month
   There is also an affiliate program where users can earn 10% by recommending the service to new users.
-  ---
+  
+---
 
 ## Business Activities
 
@@ -69,7 +70,8 @@ Is there any information about the market size of this set of customers?
 	10. Adobe Firefly
 	11. Dubverse
 	12. Wisest
-	
+
+ ---
 
 ## Results
 
@@ -78,6 +80,8 @@ Is there any information about the market size of this set of customers?
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 * How is your company performing relative to competitors in the same field?
+
+---
 
 ## Recommendations
 
