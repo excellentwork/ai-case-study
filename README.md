@@ -18,6 +18,7 @@ In addition to the Kaiber product, the company also provides a studio technology
 	$15 "Pro" plan 1,000 credits per month.
 	$30 "Artist" option for 33,333 credits per month
   There is also an affiliate program where users can earn 10% by recommending the service to new users.
+  ---
 
 ## Business Activities
 
@@ -45,6 +46,8 @@ Is there any information about the market size of this set of customers?
 * Which technologies are they currently using, and how are they implementing them? 
 	Kaiber leverages various open source projects like AnimatedDiff, Automatic1111, ControlNet and Deforum, among others. It also touts a proprietary layer of technology to fuse it all together into one artistic tool.
 [techcrunch.com](https://techcrunch.com/2023/11/02/kaibers-new-app-helps-artists-make-music-videos-using-generative-ai-tools/#:~:text=Image%20Credits%3A%20Kaiber&text=Founded%20in%202022%2C%20Kaiber%20leverages,together%20into%20one%20artistic%20tool.)
+
+---
 
 ## Landscape
 
